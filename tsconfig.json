@@ -9,8 +9,8 @@
     "moduleResolution": "node" /* Specify module resolution strategy: 'node' (Node.js) or 'classic' (TypeScript pre-1.6). */,
     "baseUrl": "./app" /* Base directory to resolve non-absolute module names. */,
     "esModuleInterop": true /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */,
-    "allowJs": false
+    "allowJs": true
   },
-  "include": ["app/**/*.ts", "app/db/**/*.ts"],
+  "include": ["app/**/*.ts", "app/db/**/*.js"],
   "exclude": ["node_modules"]
 }
