@@ -1,0 +1,7 @@
+1. npm install typescript -g
+2. npm init
+3. npm install typescript --save-dev
+4. Install sequelize-cli -g
+5. Install sequelize --save
+6. create file called .sequelizerc and pass sequelize folder positioning
+7. npx sequelize-cli init
